@@ -25,11 +25,10 @@ will create, in your package dir, if it does not exists already, an
 ## Source
 
     # EditorConfig is awesome: http://EditorConfig.org
-    #
+    
     # This file was created by command
-    #
     # npm install dot-editorconfig --save-dev
-
+    
     # top-most EditorConfig file
     root = true
     

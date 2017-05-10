@@ -1,6 +1,6 @@
 {
   "name": "dot-editorconfig",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "creates a .editorconfig file in your package dir",
   "main": "index.js",
   "scripts": {

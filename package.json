@@ -1,6 +1,6 @@
 {
   "name": "dot-editorconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "creates a .editorconfig file in your package dir",
   "scripts": {
     "copy_editorconfig": "node postinstall.js copy .editorconfig",

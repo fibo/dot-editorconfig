@@ -3,6 +3,7 @@
 > creates a .editorconfig file in your package dir
 
 [![KLP](https://img.shields.io/badge/kiss-literate-orange.svg)](http://g14n.info/kiss-literate-programming)
+[![NPM version](https://badge.fury.io/js/dot-editorconfig.svg)](http://badge.fury.io/js/dot-editorconfig)
 
 [Usage](#usage) |
 [Source](#source) |

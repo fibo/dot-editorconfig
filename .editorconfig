@@ -14,7 +14,7 @@ charset = utf-8
 indent_style = space
 indent_size = 2
 
-[*{.conf,.pl,.pm,.py}]
+[*{.conf,.pl,.pm,.py,.sol}]
 indent_size = 4
 
 [*{.glsl,.go,.sh,.sql}]

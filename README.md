@@ -1,6 +1,6 @@
 # dot-editorconfig
 
-> creates a .editorconfig file in your package dir
+> creates a *.editorconfig* file in your package dir
 
 [Usage](#usage) |
 [Source](#source) |
@@ -10,7 +10,6 @@
 [![KLP](https://img.shields.io/badge/kiss-literate-orange.svg)](http://g14n.info/kiss-literate-programming)
 [![NPM version](https://badge.fury.io/js/dot-editorconfig.svg)](http://badge.fury.io/js/dot-editorconfig)
 
-<img src="https://rawgit.com/fibo/os-icons8/master/Apple-50.png" width="50" height="50" /> <img src="https://rawgit.com/fibo/os-icons8/master/Linux-50.png" width="50" height="50" /> <img src="https://rawgit.com/fibo/os-icons8/master/Windows8-50.png" width="50" height="50" />
 ## Usage
 
 > [EditorConfig] helps developers define and maintain consistent coding styles between different editors and IDEs.
@@ -80,8 +79,6 @@ npm run markdown2code
 ## License
 
 [MIT](http://g14n.info/mit-license/)
-
-<sub>OS icons provided by <a href="https://icons8.com/">icons8</a>.</sub>
 
 [EditorConfig]: http://editorconfig.org/ "EditorConfig"
 [README]: https://github.com/fibo/dot-editorconfig/blob/master/README.md "README.md"

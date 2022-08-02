@@ -21,13 +21,13 @@
   ],
   "author": {
     "name": "Gianluca Casati",
-    "url": "http://g14n.info"
+    "url": "https://fibo.github.io"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fibo/dot-editorconfig/issues"
   },
-  "homepage": "http://g14n.info/dot-editorconfig",
+  "homepage": "https://fibo.github.io/dot-editorconfig",
   "devDependencies": {
     "markdown2code": "^1.0.2"
   }

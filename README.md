@@ -7,7 +7,7 @@
 [Contributing](#contributing) |
 [License](#license)
 
-[![KLP](https://img.shields.io/badge/kiss-literate-orange.svg)](http://g14n.info/kiss-literate-programming)
+[![KLP](https://img.shields.io/badge/kiss-literate-orange.svg)](https://fibo.github.io/kiss-literate-programming)
 [![NPM version](https://badge.fury.io/js/dot-editorconfig.svg)](http://badge.fury.io/js/dot-editorconfig)
 
 ## Usage
@@ -78,7 +78,7 @@ npm run markdown2code
 
 ## License
 
-[MIT](http://g14n.info/mit-license/)
+[MIT](https://fibo.github.io/mit-license/)
 
 [EditorConfig]: http://editorconfig.org/ "EditorConfig"
 [README]: https://github.com/fibo/dot-editorconfig/blob/master/README.md "README.md"

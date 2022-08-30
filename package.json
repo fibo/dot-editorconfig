@@ -1,6 +1,6 @@
 {
   "name": "dot-editorconfig",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "creates a .editorconfig file in your package dir",
   "license": "MIT",
   "homepage": "https://fibo.github.io/dot-editorconfig",

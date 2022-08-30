@@ -2,12 +2,11 @@
   "name": "dot-editorconfig",
   "version": "1.2.0",
   "description": "creates a .editorconfig file in your package dir",
-  "scripts": {
-    "copy_editorconfig": "node postinstall.js copy .editorconfig",
-    "markdown2code": "markdown2code -f text -l sh README.md > .editorconfig",
-    "postinstall": "npm run copy_editorconfig",
-    "postversion": "git push origin v${npm_package_version}; npm publish; git push origin main",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "license": "MIT",
+  "homepage": "https://fibo.github.io/dot-editorconfig",
+  "author": {
+    "name": "Gianluca Casati",
+    "url": "https://fibo.github.io"
   },
   "repository": {
     "type": "git",
@@ -19,16 +18,14 @@
     "config",
     "helper"
   ],
-  "author": {
-    "name": "Gianluca Casati",
-    "url": "https://fibo.github.io"
-  },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fibo/dot-editorconfig/issues"
   },
-  "homepage": "https://fibo.github.io/dot-editorconfig",
-  "devDependencies": {
-    "markdown2code": "^1.0.2"
+  "scripts": {
+    "copy_editorconfig": "node postinstall.js copy .editorconfig",
+    "markdown2code": "markdown2code -f text -l sh README.md > .editorconfig",
+    "postinstall": "npm run copy_editorconfig",
+    "postversion": "git push origin v${npm_package_version}; npm publish; git push origin main",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

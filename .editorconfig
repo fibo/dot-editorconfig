@@ -1,6 +1,3 @@
-npm install dot-editorconfig --no-save
-npm install dot-editorconfig --save-dev
-rm .editorconfig
 # EditorConfig is awesome: http://EditorConfig.org
 
 # Stop the editor from looking for .editorconfig files in the parent directories.
@@ -29,5 +26,3 @@ indent_style = tab
 [Makefile]
 indent_style = tab
 
-npm install markdown2code --no-save
-npm run markdown2code
